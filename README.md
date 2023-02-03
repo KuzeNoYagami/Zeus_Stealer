@@ -4,3 +4,21 @@
 
 
 if you need help you can write on telegram. Click to write ()
+
+# FEATURES
+
+» Grab Discord Information and HQ Friends.
+
+» Grab Password & cookies.
+
+» Grab Files.
+
+» Shows Crypto Wallets
+
+» Grab metamask/exodus
+
+» Grab Telegram
+
+» Grab chromium based Passwords
+
+# SETUP
