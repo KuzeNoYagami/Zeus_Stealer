@@ -1,4 +1,4 @@
-# teste
+# ZEUS STEALER UPDATED 2023
 
 ![2597095-zeus-esport-mascot-logo-design-vectoriel](https://user-images.githubusercontent.com/94788728/216657899-d7cecba8-9cc8-4c25-a22b-6a2919516d82.png)
 
