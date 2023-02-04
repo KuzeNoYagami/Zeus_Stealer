@@ -48,4 +48,4 @@ And press covert .py .exe
 
 # WANT TO MAKE FUD ?
 
-We can make FUD Stealer. Just contact us on telegram 
+We can make FUD Stealer. Just contact us on telegram https://t.me/+vCxwz-wDQJE3ZjZk
