@@ -17,7 +17,7 @@ import subprocess
 import ctypes
 
 
-hook = "https://discord.com/api/webhooks/940925246855335976/tF7jcQaraqitrRBY166SwdErNlA0k4N6aEudUKFDvQ9XljCXuLIMzA78NkK2iDn9duW7"
+hook = "YOUR WEBHOOK HERE"
 
 
 DETECTED = False
