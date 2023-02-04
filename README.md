@@ -36,3 +36,10 @@ Open CMD and type pip install auto_py_to_exe
 And after installed python -m auto_py_to_exe
 
 Browse file Select One file and Windows Based (hide the console)
+
+![pyy](https://user-images.githubusercontent.com/94788728/216759429-44621785-fa97-4be1-966e-3bdd27532cd4.png)
+
+And press covert .py .exe
+
+
+# SCREENSHOT
